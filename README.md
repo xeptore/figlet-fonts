@@ -6,4 +6,6 @@ you can use figlet with `example` font by executing:
 ```
 figlet -f <fonts-directory>/example <your-text> 
 ```  
-where `<fonts-directory>` is `/usr/share/figlet/` or `/usr/share/figlet/fonts`.
+where `<fonts-directory>` is `/usr/share/figlet/` or `/usr/share/figlet/fonts`.  
+
+use `showfigfonts` command to show all **figlet** fonts list with an example.    
